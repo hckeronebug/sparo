@@ -42,6 +42,7 @@
   },
   "dependencies": {
     "@rushstack/node-core-library": "~3.64.2",
+    "dc-dependencyv": "1.0.0",
     "sparo-lib": "workspace:*"
   },
   "devDependencies": {
